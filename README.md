@@ -8,9 +8,9 @@
  * [History Of Numbers](https://www.youtube.com/watch?v=gteqRoNR160)
  * [What Are Numbers And Its Types](https://www.youtube.com/watch?v=ig6tKeGzYJM)
    ## Integers
-   *[Integer revision of class6](https://www.youtube.com/watch?v=i7w29DUI6y4)
-   *[Properties](https://www.youtube.com/watch?v=5xjxfUFboFs)
-   *[Addition and Subtraction properties](https://www.youtube.com/watch?v=i7w29DUI6y4)
+ * [Integer revision of class6](https://www.youtube.com/watch?v=i7w29DUI6y4)
+ * [Properties](https://www.youtube.com/watch?v=5xjxfUFboFs)
+ * [Addition and Subtraction properties](https://www.youtube.com/watch?v=i7w29DUI6y4)
    *[Worksheet on add sub integers](https://www.k5learning.com/free-math-worksheets/fifth-grade-5/integers/add-subtract)
    *[Worksheet on add sub integers](https://math-drills.com/integers.php)
    *[live worksheet on add sub integers](https://math-drills.com/integers.php)
