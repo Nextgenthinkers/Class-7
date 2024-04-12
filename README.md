@@ -1,6 +1,7 @@
 # Class 7
 ## Syllabus
 * [Maths Syllabus For Class 5 | Latest Class 5 Maths Syllabus | 5th Standard Maths Syllabus 2023-24](https://www.youtube.com/watch?v=7m4oRAyntNQ)
+* [Class 7 | Maths | CBSE Full Syllabus](https://www.youtube.com/playlist?list=PLj1i1ws7fZJ_A67coQaWJS6f03dHlSnxK)
 
 ## Basics
  * [What is Mathematics?](https://www.youtube.com/watch?v=64643Op6WJo)
