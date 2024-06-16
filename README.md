@@ -11,7 +11,7 @@
  * [Why are there so many numbers?](https://www.youtube.com/watch?v=XN2Cj8GuVbY)
  * [History Of Numbers](https://www.youtube.com/watch?v=gteqRoNR160)
  * [What Are Numbers And Its Types](https://www.youtube.com/watch?v=ig6tKeGzYJM)
-   ## Integers
+### Integers
  * [Integer revision of class6](https://www.youtube.com/watch?v=i7w29DUI6y4)
  * [Properties](https://www.youtube.com/watch?v=5xjxfUFboFs)
  * [Addition and Subtraction properties](https://www.youtube.com/watch?v=i7w29DUI6y4)
