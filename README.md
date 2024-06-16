@@ -18,6 +18,7 @@
  * [liveworksheet](https://www.liveworksheets.com/w/en/math/1912011)
  * [Multiplication and division](https://www.youtube.com/watch?v=fxFMFTDzE5Y)
  * [worksheet on mult and div](https://www.cuemath.com/worksheets/multiplying-and-dividing-integers-worksheets/)
- * [liveworksheet](https://www.liveworksheets.com/w/en/math/496753)
- * [liveworksheet](https://www.liveworksheets.com/w/en/math/1920397)
- * [liveworksheet on bodamas](https://www.liveworksheets.com/w/en/math/2224640)
+ * Live Worksheet
+   -  [Link 1](https://www.liveworksheets.com/w/en/math/496753)
+   -  [Link 2](https://www.liveworksheets.com/w/en/math/1920397)
+   -  [BODAMAS](https://www.liveworksheets.com/w/en/math/2224640)
