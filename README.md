@@ -22,6 +22,6 @@
  * [Multiplication and division](https://www.youtube.com/watch?v=fxFMFTDzE5Y)
  * [worksheet on mult and div](https://www.cuemath.com/worksheets/multiplying-and-dividing-integers-worksheets/)
  * Live Worksheet
-   -  [Multiplying and Dividing Integers](https://www.liveworksheets.com/w/en/math/496753)
-   -  [Link 2](https://www.liveworksheets.com/w/en/math/1920397)
+   -  [Multiplying and Dividing Integers-1](https://www.liveworksheets.com/w/en/math/496753)
+   -  [Multiplying and Dividing Integers-2](https://www.liveworksheets.com/w/en/math/1920397)
    -  [BODAMAS](https://www.liveworksheets.com/w/en/math/2224640)
