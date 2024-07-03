@@ -14,13 +14,41 @@
  * [Integer revision of class6](https://www.youtube.com/watch?v=i7w29DUI6y4)
  * [Properties](https://www.youtube.com/watch?v=5xjxfUFboFs)
  * [Addition and Subtraction properties](https://www.youtube.com/watch?v=i7w29DUI6y4)
- * [Worksheet on add sub integers](https://www.k5learning.com/free-math-worksheets/fifth-grade-5/integers/add-subtract)
- * [Worksheet on add sub integers](https://math-drills.com/integers.php)
- * [live worksheet on add sub integers](https://math-drills.com/integers.php)
- * [liveworksheet](https://www.liveworksheets.com/w/en/math/1912011)
- * [Multiplication and division](https://www.youtube.com/watch?v=fxFMFTDzE5Y)
- * [worksheet on mult and div](https://www.cuemath.com/worksheets/multiplying-and-dividing-integers-worksheets/)
+ * [Notes PW](https://www.pw.live/chapter-class-7-integers)
+ * [Notes PW topics on the side](https://www.pw.live/chapter-class-7-integers/introduction-integers)
+ * [Notes from selfstudy](https://www.selfstudys.com/books/ncert-notes/english/class-7th/maths/chapter-1-integers/41671)
+ 
  * Live Worksheet
    -  [Multiplying and Dividing Integers-1](https://www.liveworksheets.com/w/en/math/496753)
    -  [Multiplying and Dividing Integers-2](https://www.liveworksheets.com/w/en/math/1920397)
    -  [BODAMAS](https://www.liveworksheets.com/w/en/math/2224640)
+   -  [Worksheet on add sub integers](https://www.k5learning.com/free-math-worksheets/fifth-grade-5/integers/add-subtract)
+   -  [Worksheet on add sub integers](https://math-drills.com/integers.php)
+   -  [live worksheet on add sub integers](https://math-drills.com/integers.php)
+   -  [liveworksheet](https://www.liveworksheets.com/w/en/math/1912011)
+   -  [Multiplication and division](https://www.youtube.com/watch?v=fxFMFTDzE5Y)
+   -  [worksheet on mult and div](https://www.cuemath.com/worksheets/multiplying-and-dividing-integers-worksheets/)
+   -  [Practice online from edugain](https://in.edugain.com/2-35-6439-6440/math/NCERT-CBSE-and-ICSE-/Class-7/Introduction-to-Integers)
+   -  [Practice online from edugain](https://in.edugain.com/2-35-6439-6446/math/NCERT-CBSE-and-ICSE-/Class-7/Operations-on-Integers)
+   -  [Exercise 1 PW](https://www.pw.live/chapter-class-7-integers/exercise-1/question/547)
+   -  [Exercise 2 PW](https://www.pw.live/chapter-class-7-integers/exercise-2)
+   -  [Exercise 3 PW](https://www.pw.live/chapter-class-7-integers/exercise-3)
+   -  [Exercise 4 PW](https://www.pw.live/chapter-class-7-integers/exercise-4)
+  
+   ### FUNDAMENTALS OF ALGEBRA
+   * [Notes PW](https://www.pw.live/chapter-algebraic-expression-class-7)
+  
+
+
+
+
+* Live worksheets
+  - [Exercise PW](https://www.pw.live/chapter-algebraic-expression-class-7/solved-questions)
+  - [Exercise1 PW](https://www.pw.live/chapter-algebraic-expression-class-7/exercise-1)
+  - [Exercise2 PW](https://www.pw.live/chapter-algebraic-expression-class-7/exercise-2)
+  - [Exercise3 PW](https://www.pw.live/chapter-algebraic-expression-class-7/exercise-3)
+  - [Exercise4 PW](https://www.pw.live/chapter-algebraic-expression-class-7/exercise-4)
+  - [Practice3 PW](https://www.pw.live/class-7-maths-worksheet/chapter-3-algebraic-expression)
+  - Practice PW](https://www.pw.live/class-7-maths-worksheet/algebraic-expression)
+  
+     
