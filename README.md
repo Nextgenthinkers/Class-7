@@ -49,6 +49,6 @@
   - [Exercise3 PW](https://www.pw.live/chapter-algebraic-expression-class-7/exercise-3)
   - [Exercise4 PW](https://www.pw.live/chapter-algebraic-expression-class-7/exercise-4)
   - [Practice3 PW](https://www.pw.live/class-7-maths-worksheet/chapter-3-algebraic-expression)
-  - Practice PW](https://www.pw.live/class-7-maths-worksheet/algebraic-expression)
+  - [Practice PW](https://www.pw.live/class-7-maths-worksheet/algebraic-expression)
   
      
