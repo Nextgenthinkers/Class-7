@@ -50,5 +50,8 @@
   - [Exercise4 PW](https://www.pw.live/chapter-algebraic-expression-class-7/exercise-4)
   - [Practice3 PW](https://www.pw.live/class-7-maths-worksheet/chapter-3-algebraic-expression)
   - [Practice PW](https://www.pw.live/class-7-maths-worksheet/algebraic-expression)
+ 
+  ### RD SHARMA CLASS 8
+  (https://www.scribd.com/document/508594180/RD-SHARMA-CLASS-8-FULL-BOOK-PDF-MATHEMATICS)
   
      
