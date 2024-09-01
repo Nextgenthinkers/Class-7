@@ -51,7 +51,26 @@
   - [Practice3 PW](https://www.pw.live/class-7-maths-worksheet/chapter-3-algebraic-expression)
   - [Practice PW](https://www.pw.live/class-7-maths-worksheet/algebraic-expression)
  
+    ### Class 7 Sience
+    (https://betrained.in/CBSE/7-Science)
+ ### class 7 maths exemplar
+ (https://betrained.in/NCERT-Exemplar/7-Mathematics)
+
+ 
   ### RD SHARMA CLASS 8
   (https://www.scribd.com/document/508594180/RD-SHARMA-CLASS-8-FULL-BOOK-PDF-MATHEMATICS)
+  ### NCERT CLASS 9
+  (https://www.esaral.com/ncert-class-9-maths-book-pdf/)
+  ### RD Sharma class9
+  (https://betrained.in/NCERT-Exemplar/9-Mathematics)
+  ### NCERT CLASS10
+  (https://www.esaral.com/class-10-maths-ncert-book-pdf/)
+  ### NCERT CLAss 8
+  (https://www.esaral.com/ncert-maths-book-class-8-pdf-free-download/)
+  ### NCERT CLASS 7
+  (https://www.ncrtsolutions.in/2016/10/class-7-mathematics-book-pdf.html)
+  ### RD SHARMA , EXemplar, rs aggarwal class8
+  (https://betrained.in/RD-Sharma/8-Mathematics)
+  
   
      
