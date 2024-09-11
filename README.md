@@ -4,7 +4,7 @@
 
 ## Books
  * [IIT-Foundation Books](https://drive.google.com/drive/folders/1fqnujlVMOZEkJXl1FfQz-HvvPkCxlcBn?usp=sharing)
-
+ * [IIT Foundation maths class 8](https://online.fliphtml5.com/cxiky/pype/#p=1)
 ## Basics
  * [What is Mathematics?](https://www.youtube.com/watch?v=64643Op6WJo)
  * [Why are there so many numbers?](https://www.youtube.com/watch?v=XN2Cj8GuVbY)
