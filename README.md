@@ -71,6 +71,7 @@
   (https://www.ncrtsolutions.in/2016/10/class-7-mathematics-book-pdf.html)
   ### RD SHARMA , EXemplar, rs aggarwal class8
   (https://betrained.in/RD-Sharma/8-Mathematics)
-  
+### rs aggarwal solution class7
+(https://www.thestudypath.com/class-7/rs-aggarwal-solutions/)
   
      
