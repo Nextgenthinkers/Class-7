@@ -73,5 +73,8 @@
   (https://betrained.in/RD-Sharma/8-Mathematics)
 ### rs aggarwal solution class7
 (https://www.thestudypath.com/class-7/rs-aggarwal-solutions/)
+
+### Ganita Prakash practice questions
+(https://xamcontent.com/ganita-prakash-class-7-maths-chapter-1-assertion-reason-questions/)
   
      
