@@ -76,5 +76,7 @@
 
 ### Ganita Prakash practice questions
 (https://xamcontent.com/ganita-prakash-class-7-maths-chapter-1-assertion-reason-questions/)
+
+* Rs Aggarwal class7 Solutions (https://www.thestudypath.com/class-7/rs-aggarwal-solutions/)
   
      
